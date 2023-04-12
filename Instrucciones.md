@@ -55,7 +55,7 @@
 
 ## Generar el fichero de requirements
 
-Desde la linea de comandos y con entorno activo
+Desde la linea de comandos y con entorno activo (importante en la carpeta de trabajo)
 
 `pip freeze > requirements.txt` 
 
