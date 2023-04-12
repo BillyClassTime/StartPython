@@ -24,11 +24,11 @@ Los demás integrantes y el propietario se conectará en local.
 
 Todos los integrantes
 
-Hacer git add . de los ejercicios que aportarán
+Hacer `git add .` de los ejercicios que aportarán
 
-git commit -m "Ejercicios NOMBRE INTEGRANTE"
+`git commit -m "Ejercicios NOMBRE INTEGRANTE"`
 
-git push
+`git push`
 
  
 
@@ -36,4 +36,4 @@ git push
 
 Recuperar del GitHub todos los ejercicios
 
-git pull
+`git pull`
