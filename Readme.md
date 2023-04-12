@@ -1,5 +1,27 @@
 # Ejercicios de Python 
 
+- Instrucciones de instalación
+
+  - Clonar el repositorio
+
+    - `git clone https://github.com/BillyClassTime/StartPython.git`
+
+  - Crear y activar el entorno virtual
+    - Version de Python 3.9.10 
+    - Windows 
+      - `py -m venv env ` 
+      - `env\scripts\activate.ps1` (Windows Power Shell)
+      - `env\scripts\activate.bat` (Windows command line)
+    - MacOs o Linux
+      - `python3 -m venv env`
+      - `source env\bin\activate`
+  - Instalar las librerias
+
+    - `pip install -r requirements.txt`
+- Instrucciones de ejecución
+
+  - `py Main.py`
+
 ## Punto 1
 
 Nombre repositorio: StartPython
